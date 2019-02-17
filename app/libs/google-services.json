@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "974876823613",
+    "firebase_url": "https://awaz-56a71.firebaseio.com",
+    "project_id": "awaz-56a71",
+    "storage_bucket": "awaz-56a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974876823613:android:a1f6632f2a06a1b7",
+        "android_client_info": {
+          "package_name": "com.abbasi.awaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974876823613-11gh6db89q619sp0l8dirq9hoqrp4nq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abbasi.awaz",
+            "certificate_hash": "86E8E541589D08C4A7B5DFDC8E36BD810351FE0D"
+          }
+        },
+        {
+          "client_id": "974876823613-9lvfclemjjc3snvnpbpcs03quu8tl7ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNa1izFyojc0LrjEadpnClNGL9BNS7CE8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#040825</color>
+    <color name="colorchat">#be040825</color>
+    <color name="colorAccent">#040825</color>
+    <color name="awazblue">#85040825</color>
+    <color name="image_border_start">#40990000</color>
+    <color name="image_border_end">#bf284b</color>
+    <color name="awazpink">#76bf284b</color>
+    <color name="image_border_center">#637aff</color>
+    <color name="acolorPrimaryDark">#57bf284b</color>
+    <color name="color">#57bf284b</color>
+    <color name="white">#ffffff</color>
+    <color name="logincolorblack">#41074c6c</color>
+    <color name="textcolro">#074c6c</color>
+    <color name="av_color1">#9bbf284b</color>
+    <color name="av_color2">#c4bf284b</color>
+    <color name="av_color3">#040825</color>
+    <color name="av_color4">#040825</color>
+
+    <color name="av_color_bg">#074c6c</color>
+
+    <array name="av_colors">
+        <item>@color/av_color4</item>
+        <item>@color/av_color3</item>
+        <item>@color/av_color2</item>
+        <item>@color/av_color1</item>
+    </array>
+</resources>

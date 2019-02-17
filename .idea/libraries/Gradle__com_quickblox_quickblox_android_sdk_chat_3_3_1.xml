@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.quickblox:quickblox-android-sdk-chat-3.3.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/7fbe914fb732d163e761648381edf43484d0451e/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/7fbe914fb732d163e761648381edf43484d0451e/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

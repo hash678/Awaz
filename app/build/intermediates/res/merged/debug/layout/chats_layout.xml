@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <RelativeLayout
+        android:id="@+id/root_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/backgrand"
+        android:paddingBottom="2dp"
+
+        tools:context="com.abbasi.awaz.drafts.MainActivity">
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tab_layout"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/imageView7"
+            android:background="#040825"
+            android:elevation="6dp"
+            android:minHeight="?attr/actionBarSize"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+        <com.cleveroad.audiovisualization.GLAudioVisualizationView
+            android:id="@+id/visualizer_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/messageRecyclerView"
+            android:layout_alignLeft="@+id/imageView6"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignStart="@+id/imageView6"
+            android:layout_alignTop="@+id/playlisttext"
+            android:layout_weight="1"
+            android:visibility="visible"
+            app:av_bubblesPerLayer="30"
+            app:av_bubblesRandomizeSizes="true"
+            app:av_bubblesSize="@dimen/bubble_size"
+            app:av_layersCount="4"
+
+            app:av_wavesCount="7"
+            app:av_wavesFooterHeight="@dimen/footer_height"
+            app:av_wavesHeight="@dimen/wave_height" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/visualizer_view"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/namesofpeople"
+            app:srcCompat="@color/textcolro" />
+
+        <ListView
+            android:id="@+id/musicplaylist"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/chattext"
+            android:layout_below="@+id/duration"
+            android:layout_marginRight="5dp"
+            android:layout_toEndOf="@+id/imageView6"
+            android:layout_toRightOf="@+id/imageView6"
+            android:background="#5b969696" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/messageRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/linearLayout"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/chattext"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="5dp"
+            android:layout_toEndOf="@+id/imageView6"
+            android:layout_toRightOf="@+id/imageView6"
+            android:background="#5b969696"
+            android:elevation="1dp" />
+
+        <LinearLayout
+            android:id="@+id/opplayout"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_alignTop="@+id/prevbutton"
+            android:layout_toEndOf="@+id/imageView6"
+            android:layout_toRightOf="@+id/imageView6"
+            android:background="@drawable/roundpicture"
+            android:padding="18dp"
+            android:visibility="invisible">
+            android:layout_alignTop="@+id/prevbutton"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_toRightOf="@+id/prevbutton"
+
+            <com.quickblox.videochat.webrtc.view.QBRTCSurfaceView
+                android:id="@+id/oppviewer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+
+                android:visibility="invisible" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/emojibutton"
+                android:layout_width="30dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                app:srcCompat="@drawable/heart" />
+
+            <hani.momanii.supernova_emoji_library.Helper.EmojiconEditText
+                android:id="@+id/messageEditText"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_weight="1"
+                android:paddingLeft="5dp"
+                android:paddingRight="2dp"
+                android:paddingStart="5dp"
+
+                android:textColor="#000000" />
+
+            <Button
+                android:id="@+id/sendButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="2dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:background="@drawable/roundbutton"
+                android:enabled="false"
+                android:text="SEND"
+                android:textColor="#ffffff" />
+
+        </LinearLayout>
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/messageRecyclerView"
+
+            android:layout_alignEnd="@+id/musicplaylist"
+            android:layout_alignRight="@+id/musicplaylist"
+            android:layout_toRightOf="@+id/imageView6" />
+
+        <TextView
+            android:id="@+id/chattext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_alignLeft="@+id/messageRecyclerView"
+            android:layout_alignStart="@+id/messageRecyclerView"
+            android:layout_below="@+id/playbutton"
+            android:layout_marginTop="15dp"
+            android:background="#5b969696"
+            android:text="CHAT"
+            android:textAlignment="center"
+            android:textColor="#ffffffff"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/placecall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/visualizer_view"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/imageView7"
+            android:layout_toEndOf="@+id/prevbutton"
+            android:layout_toRightOf="@+id/prevbutton"
+            android:onClick="call"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/callplace" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/lol" />
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/incoming"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/visualizer_view"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignTop="@+id/myvideo"
+            android:background="#ffffff"
+            android:src="@drawable/incoming"
+            android:visibility="invisible" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/messageRecyclerView"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/tab_layout"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/sidebar"
+            android:paddingBottom="5dp" />
+
+        <TextView
+            android:id="@+id/statusa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="21dp"
+            android:gravity="center"
+            android:onClick="openMemebers"
+            android:text="Session"
+            android:textColor="@color/white"
+            android:textSize="40dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_above="@+id/namesofpeople"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/options"
+            android:onClick="Menu" />
+
+        <TextView
+            android:id="@+id/namesofpeople"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/tab_layout"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/statusa"
+            android:clickable="true"
+            android:onClick="openMemebers"
+            android:text="Hassan - Jack- Jones"
+            android:textAlignment="center"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/playlisttext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_above="@+id/musicplaylist"
+            android:layout_alignEnd="@+id/musicplaylist"
+            android:layout_alignRight="@+id/musicplaylist"
+            android:layout_toEndOf="@+id/imageView6"
+            android:layout_toRightOf="@+id/imageView6"
+            android:background="#5b969696"
+            android:text="PLAYLIST"
+            android:textAlignment="center"
+            android:textColor="#ffffffff"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/prevbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/imageView6"
+            android:layout_alignLeft="@+id/imageView6"
+            android:layout_alignRight="@+id/imageView6"
+            android:layout_alignStart="@+id/imageView6"
+            android:layout_alignTop="@+id/imageView6"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/cast_ic_expanded_controller_skip_previous"
+            android:onClick="onPrev" />
+
+        <Button
+            android:id="@+id/nextbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/imageView6"
+            android:layout_alignEnd="@+id/imageView6"
+            android:layout_alignLeft="@+id/imageView6"
+            android:layout_alignRight="@+id/imageView6"
+            android:layout_alignStart="@+id/imageView6"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/cast_ic_expanded_controller_skip_next"
+            android:onClick="onNext" />
+
+        <Button
+            android:id="@+id/playbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/imageView6"
+            android:layout_alignLeft="@+id/imageView6"
+            android:layout_alignRight="@+id/imageView6"
+            android:layout_alignStart="@+id/imageView6"
+            android:layout_below="@+id/stopbutton"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/cast_ic_expanded_controller_pause"
+            android:onClick="playSavedsong" />
+
+        <Button
+            android:id="@+id/stopbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/imageView6"
+            android:layout_alignLeft="@+id/imageView6"
+            android:layout_alignRight="@+id/imageView6"
+            android:layout_alignStart="@+id/imageView6"
+            android:layout_centerVertical="true"
+            android:layout_toStartOf="@+id/musicplaylist"
+            android:background="@drawable/cast_ic_expanded_controller_stop"
+            android:onClick="onStop" />
+
+        <TextView
+            android:id="@+id/duration"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/stopbutton"
+            android:layout_alignEnd="@+id/imageView6"
+            android:layout_alignLeft="@+id/imageView6"
+            android:layout_alignRight="@+id/imageView6"
+            android:layout_alignStart="@+id/imageView6"
+            android:layout_below="@+id/prevbutton"
+            android:gravity="center"
+            android:text="00:00"
+            android:textAlignment="center"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/myvideo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/opplayout"
+
+            android:layout_alignEnd="@+id/opplayout"
+            android:layout_alignRight="@+id/opplayout"
+            android:layout_toRightOf="@+id/imageView6"
+            android:gravity="center"
+            android:text="My video"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="#ffffffff"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/buddyvideo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/opponentView1"
+            android:layout_alignLeft="@+id/opponentView1"
+            android:layout_alignRight="@+id/opponentView1"
+
+            android:layout_alignStart="@+id/opponentView1"
+
+            android:layout_below="@+id/imageView7"
+            android:alpha="0"
+            android:gravity="center"
+            android:text="Buddy video"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="#ffffffff"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/videobutton"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_above="@+id/visualizer_view"
+            android:layout_below="@+id/opplayout"
+            android:layout_marginLeft="6dp"
+            android:layout_marginStart="6dp"
+            android:layout_marginTop="6dp"
+            android:layout_toRightOf="@+id/imageView6"
+            android:background="@drawable/callend"
+            android:gravity="center"
+            android:onClick="hangupcall"
+            android:textAlignment="center"
+            android:textColor="#ffffff"
+            android:visibility="invisible" />
+
+        <GridLayout
+            android:id="@+id/opponentView1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/visualizer_view"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/incoming"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/opplayout"
+            android:visibility="invisible"></GridLayout>
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/visualizer_view"
+            android:layout_alignTop="@+id/videobutton"
+            android:layout_toEndOf="@+id/videobutton"
+            android:layout_toRightOf="@+id/videobutton"
+            android:visibility="invisible"
+            app:srcCompat="@android:drawable/presence_audio_busy" />
+
+    </RelativeLayout>
+
+</LinearLayout>

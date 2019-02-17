@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\chatback.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xxhdpi\\chatback.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\options.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xxhdpi\\options.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\heart.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xxhdpi\\heart.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_account_circle_black_36dp.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xxhdpi\\ic_account_circle_black_36dp.png"
+    }
+]

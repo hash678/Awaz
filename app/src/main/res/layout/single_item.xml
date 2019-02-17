@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:orientation="vertical">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:weightSum="1"
+    android:layout_marginBottom="10dp"
+    android:id="@+id/clicker"
+    android:background="#fdfaf8f6">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/statusicon"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="5dp" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/mbImageView"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:src="@drawable/ic_account_circle_black_36dp"
+        android:layout_marginLeft="10dp" />
+
+    <LinearLayout
+        android:layout_width="146dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:layout_weight="0.18"
+        android:textAlignment="center">
+
+        <TextView
+            android:id="@+id/myTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="16dp"
+            android:textColor="#040825" />
+
+    </LinearLayout>
+</LinearLayout>
+
+
+</LinearLayout>

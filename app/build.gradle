@@ -1,0 +1,80 @@
+apply plugin: 'com.android.application'
+
+android {
+    dexOptions {
+
+        javaMaxHeapSize "4g"
+    }
+
+    compileSdkVersion 24
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        applicationId "com.abbasi.awaz"
+        minSdkVersion 15
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE-FIREBASE.txt'
+        exclude 'META-INF/NOTICE'
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile files('libs/commons-net-3.5.jar')
+
+
+    compile('com.facebook.fresco:fresco:1.3.0') {
+        exclude group: 'com.parse.bolts'
+    }
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
+    repositories {
+        maven {
+            url "https://github.com/QuickBlox/quickblox-android-sdk-releases/raw/master/"
+        }
+    }
+
+    compile 'com.android.support:appcompat-v7:24.0.0'
+    compile 'com.android.support:design:24.0.0'
+    compile 'com.google.firebase:firebase-core:11.0.0'
+    compile 'com.google.firebase:firebase-storage:11.0.0'
+    compile 'com.google.firebase:firebase-auth:11.0.0'
+    compile 'com.google.firebase:firebase-database:11.0.0'
+    compile 'com.google.firebase:firebase-messaging:11.0.0'
+    compile 'com.google.android.gms:play-services-auth:11.0.0'
+    compile 'com.firebaseui:firebase-ui-database:0.4.0'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'de.hdodenhof:circleimageview:1.3.0'
+    compile 'com.squareup.okhttp3:okhttp:3.4.1'
+    compile 'com.android.support:multidex:1.0.0'
+    compile 'junit:junit:4.12'
+    compile 'com.google.android.gms:play-services:11.0.0'
+    compile 'com.cleveroad:audiovisualization:1.0.0'
+    compile 'com.firebaseui:firebase-ui-storage:0.6.0'
+    compile 'com.github.hani-momanii:SuperNova-Emoji:1.1'
+    compile 'com.mcxiaoke.volley:library-aar:1.0.0'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.hbb20:ccp:1.8'
+    compile 'com.quickblox:quickblox-android-sdk-chat:3.3.1'
+
+    compile 'com.quickblox:quickblox-android-sdk-videochat-webrtc:3.3.1'
+    compile 'pl.droidsonroids.gif:android-gif-drawable:1.1.+'
+
+    testCompile 'junit:junit:4.12'
+
+}
+apply plugin: 'com.google.gms.google-services'
+

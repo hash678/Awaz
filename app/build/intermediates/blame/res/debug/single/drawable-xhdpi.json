@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_send.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xhdpi\\ic_send.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\chat_bubble_green.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xhdpi\\chat_bubble_green.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_username.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xhdpi\\ic_username.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back_arrow.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xhdpi\\back_arrow.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\editext_bg_gray.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xhdpi\\editext_bg_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_offline.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xhdpi\\ic_offline.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pwd.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xhdpi\\ic_pwd.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\green_btn.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xhdpi\\green_btn.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\edittext_bg.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xhdpi\\edittext_bg.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_online.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xhdpi\\ic_online.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cb.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xhdpi\\cb.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_account_circle_black_36dp.png",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\drawable-xhdpi\\ic_account_circle_black_36dp.png"
+    }
+]

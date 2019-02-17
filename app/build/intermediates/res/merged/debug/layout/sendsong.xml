@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tab2">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select"
+        android:id="@+id/sbutt1"
+        android:layout_gravity="center_horizontal"
+        android:onClick="sBut1"
+        android:background="#000000"
+        android:textColor="#dddddd"
+        android:layout_alignLeft="@+id/songname1"
+        android:layout_alignStart="@+id/songname1"
+        android:layout_below="@+id/progressBar2"
+        android:layout_marginTop="15dp" />
+
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar2"
+        android:alpha="0" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:id="@+id/button5"
+        android:layout_gravity="center_horizontal"
+        android:onClick="informaboutUpload"
+        android:background="#000000"
+        android:textColor="#ffffff"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="36dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Song name"
+        android:id="@+id/songname1"
+        android:maxLines="1"
+        android:layout_below="@+id/sbutt1"
+        android:textColor="#040825"
+        android:textStyle="bold"
+        android:layout_alignLeft="@+id/songname2"
+        android:layout_alignStart="@+id/songname2"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="4dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select"
+        android:id="@+id/sbutt2"
+        android:layout_gravity="center_horizontal"
+        android:onClick="sBut2"
+        android:background="#ededed"
+        android:layout_alignLeft="@+id/songname2"
+        android:layout_alignStart="@+id/songname2"
+        android:layout_below="@+id/songname1"
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Song name"
+        android:id="@+id/songname2"
+        android:layout_below="@+id/sbutt2"
+        android:layout_centerHorizontal="true"
+        android:maxLines="1"
+        android:textColor="#040825"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="4dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select"
+        android:id="@+id/sbutt3"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#dddddd"
+        android:background="#000000"
+        android:layout_below="@+id/songname2"
+        android:layout_alignLeft="@+id/songname2"
+        android:layout_alignStart="@+id/songname2"
+        android:layout_marginTop="15dp"
+        android:onClick="sBut3" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Song name"
+        android:id="@+id/songname3"
+        android:layout_below="@+id/sbutt3"
+        android:layout_centerHorizontal="true"
+        android:maxLines="1"
+        android:textColor="#040825"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="4dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select"
+        android:id="@+id/sbutt4"
+        android:layout_gravity="center_horizontal"
+        android:onClick="sBut4"
+        android:background="#ededed"
+        android:layout_below="@+id/songname3"
+        android:layout_alignLeft="@+id/songname3"
+        android:layout_alignStart="@+id/songname3"
+        android:layout_marginTop="15dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Song name"
+        android:id="@+id/songname4"
+        android:layout_below="@+id/sbutt4"
+        android:layout_centerHorizontal="true"
+        android:maxLines="1"
+        android:textColor="#040825"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="4dp" />
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:indeterminate="true"
+        android:id="@+id/song1pbar"
+        android:alpha="0"
+        android:layout_above="@+id/songname1"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/song2pbar"
+        android:indeterminate="true"
+        android:alpha="0"
+        android:layout_above="@+id/songname2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/song3pbar"
+        android:indeterminate="true"
+        android:alpha="0"
+        android:layout_above="@+id/songname3"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/song4pbar"
+        android:indeterminate="true"
+        android:alpha="0"
+        android:layout_above="@+id/songname4"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

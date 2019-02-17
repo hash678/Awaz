@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/phonebackground">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar2"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/lol"
+        android:elevation="6dp"
+        android:minHeight="?attr/actionBarSize"
+        android:textAlignment="center"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        fresco:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+
+        <TextView
+            android:id="@+id/enteryourdetails"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:text="My Profile"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/white"
+            android:textIsSelectable="false"
+            android:textSize="35dp"
+            android:textStyle="bold" />
+    </android.support.v7.widget.Toolbar>
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#040825"
+        android:elevation="6dp"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:layout_below="@+id/toolbar2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/buddynamez"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_above="@+id/tab_layout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="25dp"
+        android:textAlignment="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/textcolro"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+
+
+
+
+    <Button
+        android:id="@+id/addbuddy"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignLeft="@+id/requestse"
+        android:layout_alignStart="@+id/requestse"
+        android:layout_alignTop="@+id/textView4"
+        android:layout_toLeftOf="@+id/ticku"
+        android:layout_toStartOf="@+id/ticku"
+        android:background="@color/colorAccent"
+        android:onClick="onButtonBuddyadd"
+        android:text="Add buddy"
+        android:textAlignment="center"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/requestse"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="94dp"
+        android:layout_marginLeft="20dp"
+        android:background="@color/image_border_end"
+        android:onClick="sendSessionRequest"
+        android:text="Request Session"
+        android:textColor="#ffffff" />
+
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/buddypic"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_below="@+id/imageView8"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/userprofileicon"
+        android:src="@drawable/userprofileicon" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/requestse"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="24dp"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ImageView
+        android:id="@+id/ticku"
+        android:layout_width="50dp"
+        android:layout_height="45dp"
+        android:layout_alignBottom="@+id/addbuddy"
+        android:layout_alignEnd="@+id/requestse"
+        android:layout_alignRight="@+id/requestse"
+        android:layout_alignTop="@+id/addbuddy"
+        android:background="#ffffff"
+        android:src="@drawable/ic_username" />
+
+    <TextView
+        android:id="@+id/buddyusernamez"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="User profile"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ffffff"
+        android:textSize="40dp"
+        android:layout_above="@+id/buddypic"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/buddystatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buddypic"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"
+        android:text="offline" />
+
+
+</RelativeLayout>

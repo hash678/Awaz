@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\menu\\newa.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\menu\\newa.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\menu\\download.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\menu\\download.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\menu\\chat.xml"
+    }
+]

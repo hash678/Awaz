@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/s_send"
+        android:icon="@drawable/bell"
+        android:title="Select song"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/reactionnnn"
+        android:title="Mute"
+
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/openmembersintent"
+        android:title="Members"
+
+        app:showAsAction="always"/>
+
+
+    <item
+        android:id="@+id/switchcamera"
+        android:title="Switch Camera"
+
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/leave"
+        android:title="Leave"
+
+        app:showAsAction="always"/>
+
+
+
+</menu>

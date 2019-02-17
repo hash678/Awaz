@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.abbasi.awaz.drafts.MainActivity"
+    android:background="@drawable/tab3">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/requestRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#3d040825"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView3"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="10dp" />
+
+    <ProgressBar
+        android:id="@+id/requestprogressBar"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="172dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="BUDDY REQUESTS"
+        android:id="@+id/textView3"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#fdfdfd"
+        android:textSize="30dp"
+        android:layout_marginBottom="5dp"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="No buddy requests :("
+        android:id="@+id/nobuddy"
+        android:textColor="#d5d5d5"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:layout_above="@+id/requestprogressBar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="31dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="still checking......"
+        android:id="@+id/sc"
+        android:textColor="#d2d2d2"
+        android:layout_below="@+id/nobuddy"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-30dp" />
+
+
+</RelativeLayout>

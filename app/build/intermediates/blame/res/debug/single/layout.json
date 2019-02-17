@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emojicons.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\a10dc36a847854ccca29e385dc55ac8f23b9bfe2\\output\\res\\layout\\emojicons.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\chat_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emojicon_item.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\a10dc36a847854ccca29e385dc55ac8f23b9bfe2\\output\\res\\layout\\emojicon_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contacts.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\activity_contacts.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_picker_dialog.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\36cef1696ae0d39199379f84e9308f4b9d23202b\\output\\res\\layout\\layout_picker_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\2faaacab7e86d71d4d506f2228bd556a6841f76a\\output\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sessionrow.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\sessionrow.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\1ef93ba91e72a41c608c6b1682656a6c68bf077d\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\1ef93ba91e72a41c608c6b1682656a6c68bf077d\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_opponent_from_call.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\list_item_opponent_from_call.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\2faaacab7e86d71d4d506f2228bd556a6841f76a\\output\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts_each.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\contacts_each.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\player.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\player.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sessionaaa.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\sessionaaa.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\2faaacab7e86d71d4d506f2228bd556a6841f76a\\output\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\1ef93ba91e72a41c608c6b1682656a6c68bf077d\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_code_picker.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\36cef1696ae0d39199379f84e9308f4b9d23202b\\output\\res\\layout\\layout_code_picker.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\chat.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\1ef93ba91e72a41c608c6b1682656a6c68bf077d\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myprofile.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\myprofile.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\1ef93ba91e72a41c608c6b1682656a6c68bf077d\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recsongs.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\recsongs.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\1ef93ba91e72a41c608c6b1682656a6c68bf077d\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\2faaacab7e86d71d4d506f2228bd556a6841f76a\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chats_layout.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\chats_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_fragment_1.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\tab_fragment_1.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\remote_video_view.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\remote_video_view.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fastscroll__default_bubble.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\4341c616a9eb496481e3ec0431031126aa6d8178\\output\\res\\layout\\fastscroll__default_bubble.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\friendrequets.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\friendrequets.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\983ce144cf2997437c5323f822731f13a0c84c2e\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\6c9edf125fdb342cecc93a513940130949d5a7d5\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sendsong.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\sendsong.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\6c9edf125fdb342cecc93a513940130949d5a7d5\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\1ef93ba91e72a41c608c6b1682656a6c68bf077d\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ceatgroup.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\activity_ceatgroup.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\1ef93ba91e72a41c608c6b1682656a6c68bf077d\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\1ef93ba91e72a41c608c6b1682656a6c68bf077d\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loginlayout.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\loginlayout.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\1ef93ba91e72a41c608c6b1682656a6c68bf077d\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item_row.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\listview_item_row.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buddyrow.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\buddyrow.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\userprofile.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\userprofile.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\6c9edf125fdb342cecc93a513940130949d5a7d5\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\videorow.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\videorow.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\983ce144cf2997437c5323f822731f13a0c84c2e\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sessionrequests.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\sessionrequests.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\6c9edf125fdb342cecc93a513940130949d5a7d5\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_members2.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\activity_members2.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\single_item.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\single_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_fragment_3.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\tab_fragment_3.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sessionrequestsent.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\activity_sessionrequestsent.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\phonesign.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\phonesign.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\memberrows.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\memberrows.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_members.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\activity_members.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\musicrow.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\musicrow.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\emojicon_grid.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\a10dc36a847854ccca29e385dc55ac8f23b9bfe2\\output\\res\\layout\\emojicon_grid.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_list.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\user_list.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_fragment_2.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\tab_fragment_2.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recycler_country_tile.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\36cef1696ae0d39199379f84e9308f4b9d23202b\\output\\res\\layout\\layout_recycler_country_tile.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\983ce144cf2997437c5323f822731f13a0c84c2e\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\2faaacab7e86d71d4d506f2228bd556a6841f76a\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\6c9edf125fdb342cecc93a513940130949d5a7d5\\output\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\1ef93ba91e72a41c608c6b1682656a6c68bf077d\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\songsender.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\songsender.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\6c9edf125fdb342cecc93a513940130949d5a7d5\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\2faaacab7e86d71d4d506f2228bd556a6841f76a\\output\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\983ce144cf2997437c5323f822731f13a0c84c2e\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\1ef93ba91e72a41c608c6b1682656a6c68bf077d\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_message.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\item_message.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabs_layout.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\tabs_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\requestrow.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\requestrow.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resetpass.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\resetpass.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main2.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\content_main2.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_layout.xml",
+        "source": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\src\\main\\res\\layout\\listview_layout.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\awaz909\\awaz101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Hassan Abbasi\\.android\\build-cache\\8e942eb6d77f0a4996228acf0644bb2e912ed447\\output\\res\\layout\\notification_template_part_time.xml"
+    }
+]
